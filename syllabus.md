@@ -5,7 +5,7 @@
 ## Instructor Information  
 - **Instructor:** Bibek Raj Joshi 
 - **Email:** [bibek.joshi@wright.edu]  
-- **Office Hours:** Tuesdays & Thursdays, 11:00 AM – 12:00 PM & 3:00 PM - 4:00 PM 
+- **Office Hours:** Tuesdays (11:00 AM – 12:00 PM & 3:00 PM - 4:00 PM), Thursday (2:00 PM - 4:00 PM) 
 - **Location:** Russ 331
 
 ---
